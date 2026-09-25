@@ -1,0 +1,6 @@
+{
+  "name": "Studio Code - Web IDE",
+  "description": "Full-featured web-based Visual Studio Code clone featuring multi-file workspace, syntax highlighting, integrated terminal, live preview runner, Git source control, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
